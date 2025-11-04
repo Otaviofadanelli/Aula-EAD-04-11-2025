@@ -1,0 +1,42 @@
+// Console.Write("Digite seu nome: ");
+// string name = Console.ReadLine();
+// Console.WriteLine($"Olá {name}!");
+// Console.Write("Digite o ano de seu nascimento: ");
+// int year = int.Parse(Console.ReadLine());
+// int age = 2022 - year; // +, -, *, /
+// Console.WriteLine($"Você tem {age} anos.");
+
+// if (age >= 18 || name == "Fredi")
+// {
+//     Console.WriteLine("Você é maior de idade.");
+// }
+// else
+// {
+//     Console.WriteLine("Você é menor de idade.");
+//     Console.WriteLine("Teste");
+// }
+
+
+
+
+
+
+
+
+// static void Main()
+// {
+//     string name = "";
+//     string[] names = { "Fredi", "Machado" };
+
+//     int i = 10;
+//     if (int.TryParse("ab", out int x))
+//     {
+//         Console.WriteLine("Sucesso!");
+//     }
+//     else
+//     {
+//         Console.WriteLine("Erro");
+//     }
+
+//     Console.WriteLine(x);
+// }
